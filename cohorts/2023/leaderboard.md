@@ -1,7 +1,7 @@
 ## Leaderboard 
 
 This is the top [100 leaderboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSNK_yGtELX1RJK1SSRl4xiUbD0XZMYS6uwHnybc7Mql-WMnMgO7hHSu59w-1cE7FeFZjkopbh684UE/pubhtml)
-of participants of MLOps Zoomcamp 2023 edition!
+of participants of Machine Learning Zoomcamp 2023 edition!
 
 <table>
 <tr>
@@ -627,8 +627,7 @@ Links:
 Links:
 
 <ul>
-<li>[midterm project (Disaster Tweets Detection</li>
-<li>)](https://github.com/shayansm2/kaggle-playground/tree/main/nlp-getting-started)</li>
+<li><a href="https://github.com/shayansm2/kaggle-playground/tree/main/nlp-getting-started">midterm project (Disaster Tweets Detection)</a></li>
 <li><a href="https://github.com/shayansm2/kaggle-playground/tree/main/dtc-zoomcamp-qa-challenge">capstone project (DTC Zoomcamp Q&amp;A Challenge)</a></li>
 </ul></details></td>
 </tr>
@@ -688,20 +687,6 @@ Links:
 <td><a href="https://github.com/carise/ml-zoomcamp-capstone2">Project</a></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Angelo Varlotta</td>
-<td><a href="https://github.com/capac/ml-zoomcamp/tree/main/2023/capstone-2">Project</a></td>
-<td> <a href="https://www.linkedin.com/in/angelovarlotta/"><img src="https://user-images.githubusercontent.com/875246/192300614-2ce22ed5-bbc4-4684-8098-d8128d71aac5.png" height="16em" /></a> <a href="https://www.github.com/capac/"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a></td>
-<td><details>
-<summary>More info</summary>
-
-
-Links:
-
-<ul>
-<li><a href="https://angelovarlotta.com/">Personal website</a></li>
-</ul></details></td>
 </tr>
 <tr>
 <td>Angelo Varlotta</td>
